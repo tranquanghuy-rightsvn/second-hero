@@ -1,0 +1,583 @@
+  <link rel="shortcut icon" href="./images/favicon.ico">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/post.css">
+</head>
+
+<body class="w-website js-tldr">
+  <header id="js-header" class="w-header">
+    <div class="wrapper main-navigation">
+      <div class="header-nav nav-menu">
+        <div class="nav-left">
+          <label class="menu-icon-custom css-menu--toggle" for="side_menu"><span></span>
+            <span></span>
+            <span></span>
+          </label>
+        </div>
+
+        <div class="header-logo">
+          <a href="/" rel="home">
+            <picture>
+              <img src="images/logo.png" title="Game Rant" width="200" height="64">
+            </picture>
+          </a>
+        </div>
+      </div>
+    </div>
+    <input type="checkbox" id="side_menu" name="side_menu" class="css-menu--checkbox">
+    <div id="side-navigation" class="side-navigation side_menu">
+      <div class="side-navigation-topbar">
+        <label class="menu-icon-cancel css-menu--toggle" for="side_menu">
+          <span class="line line1"></span>
+          <span class="line line2"></span>
+        </label>
+      </div>
+      <nav id="menu-site" class="side-navigation-menu category-menu mobile" role="navigation">
+        <div class="page-wrapper">
+          <ul class="side-navigation-list normal-category">
+            <li class="sidenav-section">
+              <ul class="side-navigation-list">
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+
+
+                <li class="parent">
+                  <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+                  <div class="subcate">
+                    <ul>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <nav class="category-menu pc">
+    <ul>
+      <li class="parent cong-nghe">
+        <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent am-thuc">
+        <a href="./am-thuc.html" title="ẩm thực">Ẩm thực</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent nhan-vat">
+        <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent phim">
+        <a href="./phim.html" title="Phim">Phim</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent sach">
+        <a href="./sach.html" title="Sách">Sách</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent do-gia-dung">
+        <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent nha-hang">
+        <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="parent khach-san">
+        <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
+        <div class="subcate">
+          <ul>
+          </ul>
+        </div>
+      </li>
+
+      <li class="more">
+        <span class="dot dot1"></span><span class="dot dot2"></span><span class="dot dot3"></span>
+      </li>
+    </ul>
+  </nav>
+
+  <main class="w-content">
+    <article class="w-article widget   article  layout-regular">
+      <header class="article-header ">
+        <h1 class="article-header-title">Without The Sims 5, the Door is Wide Open for InZOI, Paralives</h1>
+        <div class="article-header-data">
+          <div class="article-meta">
+            <div class="w-author">
+              <div class="w-author-name">
+                <a class="meta_txt article-author" href="/author/dominik-bosnjak/">Công nghệ</a>
+              </div>
+            </div>
+            <div class="meta_txt article-date"><time datetime="2024-09-20T19:30:00Z"><span class="is-mobile-hidden">Published</span> 2 days ago</time></div>
+          </div>
+        </div>
+      </header>
+
+      <div class="article-header-bg"></div>
+
+      <section id="article-body" class="article-body " itemprop="articleBody">
+        <div class="content-block-regular">
+          <section class="emaki-custom-block emaki-custom-key-points">
+          </section>
+
+        </div>
+      </section>
+
+      <div class="article-footer-bg"></div>
+      <footer class="article-footer">
+        <div class="footer-recommended-feed">
+          <div class="footer-section-title icon i-fire">Recommended</div>
+          <div class="w-recommended-feed">
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/helldivers-2-gas-warbond-poorly-timed-meta-fire/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1100" loading="lazy" decoding="async" alt="Helldivers 2 Chemical Agents" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/helldivers-2-chemical-agents.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/helldivers-2-chemical-agents.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/helldivers-2-gas-warbond-poorly-timed-meta-fire/" title="Helldivers 2's Gas Warbond is Arriving at an Odd Time">
+                    Helldivers 2's Gas Warbond is Arriving at an Odd Time
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/helldivers-2/" title="Helldivers 2"><span>Helldivers 2</span></a>
+                </div>
+                <p class="display-card-excerpt">The new Warbond for Helldivers 2 is an intriguing new addition, but a few eyebrows may be raised regarding its release.</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/helldivers-2-gas-warbond-poorly-timed-meta-fire/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T11:00:12Z">4 hours ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/monopoly-go-what-happens-stars-stickers-end-monopoly-games-sticker-album/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="1800" height="900" loading="lazy" decoding="async" alt="stickers for rewards monopoly go" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/stickers-for-rewards-monopoly-go.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/stickers-for-rewards-monopoly-go.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/monopoly-go-what-happens-stars-stickers-end-monopoly-games-sticker-album/" title="Monopoly GO: What Happens to Stars at the End of Monopoly Games Sticker Album">
+                    Monopoly GO: What Happens to Stars at the End of Monopoly Games Sticker Album
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/monopoly/" title="Monopoly"><span>Monopoly</span></a>
+                </div>
+                <p class="display-card-excerpt">Wondering what happens to stars once the Monopoly Games album ends? Here’s the answer.</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/monopoly-go-what-happens-stars-stickers-end-monopoly-games-sticker-album/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T04:18:03Z">11 hours ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/nintendo-switch-2-rumors-leaks-dual-screens-ds-game-boy-gba/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1100" loading="lazy" decoding="async" alt="Nintendo Switch 2 GameRant Visual" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2024/09/nintendo-switch-2-gamerant-visual.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2024/09/nintendo-switch-2-gamerant-visual.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/nintendo-switch-2-rumors-leaks-dual-screens-ds-game-boy-gba/" title="Why the Nintendo Switch 2 Could Be the DS to the Switch's Game Boy">
+                    Why the Nintendo Switch 2 Could Be the DS to the Switch's Game Boy
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/switch/" title="Switch"><span>Switch</span></a>
+                </div>
+                <p class="display-card-excerpt">With rumors that the successor to the Nintendo Switch will be unveiled soon, speculation has led to the belief that it will embody elements of the DS.</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/nintendo-switch-2-rumors-leaks-dual-screens-ds-game-boy-gba/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T14:00:12Z">1 hour ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/deadlock-how-parry/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2000" height="1000" loading="lazy" decoding="async" alt="Image showing enemies stunned from Parry in Deadlock" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/deadlock-parry-2.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/deadlock-parry-2.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/deadlock-how-parry/" title="Deadlock: How to Parry">
+                    Deadlock: How to Parry
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/deadlock/" title="Deadlock"><span>Deadlock</span></a>
+                </div>
+                <p class="display-card-excerpt">Melee attacks can be extremely lethal in Deadlock, so learn how to parry to shut down punch-happy heroes.&nbsp;</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/deadlock-how-parry/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T15:00:12Z">24 minutes ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/new-york-times-connections-hints-answers-470-september-23-2024/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1100" loading="lazy" decoding="async" alt="new-york-times-connections-hints-and-answers-game-rant-30-percent-20" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2024/09/new-york-times-connections-hints-and-answers-game-rant-30-percent-20.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2024/09/new-york-times-connections-hints-and-answers-game-rant-30-percent-20.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/new-york-times-connections-hints-answers-470-september-23-2024/" title="New York Times Connections Hints and Answers for #470 September 23, 2024">
+                    New York Times Connections Hints and Answers for #470 September 23, 2024
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/connections/" title="Connections"><span>Connections</span></a>
+                </div>
+                <p class="display-card-excerpt">Connections is a daily word puzzle game from the New York Times Games that has you sorting words into mystery groupings.</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/new-york-times-connections-hints-answers-470-september-23-2024/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T11:00:12Z">4 hours ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/frostpunk-2-how-get-find-cores/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2500" height="1250" src="https://web100.vn/images/post/7/du-an-khach-hang-dau-tien-filming-in-vietnam" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/frostpunk-2-how-get-find-cores/" title="Frostpunk 2: How To Get Cores">
+                    Frostpunk 2: How To Get Cores
+                  </a>
+                </h5>
+                <div class="w-display-card-category">
+                  <a class="dc-tag-label no-bg" href="/tag/frostpunk-2/" title="Frostpunk 2"><span>Frostpunk 2</span></a>
+                </div>
+                <p class="display-card-excerpt">Here’s how you can get more Cores and keep expanding your city in Frostpunk 2.</p>
+                <div class="w-display-card-extra">
+                  <a class="dc-tag-label no-border comment icon i-thread" href="/frostpunk-2-how-get-find-cores/#threads">
+                  </a>
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                    <div class="meta_txt article-date"><time class="display-card-date" datetime="2024-09-22T05:32:12Z">10 hours ago</time></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+
+
+
+      <aside id="secondary" class="sidebar adsninja-rail-container" role="complementary">
+        <article class="sidebar-trending">
+        </article>
+        <article class="sidebar-sticky">
+          <div class="section-header">
+            <h3 class="section-title">Trending Now</h3>
+          </div>
+          <div class="sentinel-article-sidebarSticky">
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/minecraft-movie-advantage-live-service-game-adaptation/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <div class="articleHasVideo">
+                      <span>2:54</span>
+                    </div>
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1100" loading="lazy" decoding="async" alt="A Minecraft Movie Jack Black Llama Pink Sheep" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/a-minecraft-movie-jack-black-llama-pink-sheep.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/a-minecraft-movie-jack-black-llama-pink-sheep.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/minecraft-movie-advantage-live-service-game-adaptation/" title="Despite The Negative Reception, Minecraft's Movie Has an Advantage Many Game Adaptations Don't">
+                    Despite The Negative Reception, Minecraft's Movie Has an Advantage Many Game Adaptations Don't
+                  </a>
+                </h5>
+                <div class="w-display-card-extra">
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/monopoly-go-new-sticker-pack-token-updates/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1100" src="https://web100.vn/images/post/7/du-an-khach-hang-dau-tien-filming-in-vietnam" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/monopoly-go-new-sticker-pack-token-updates/" title="Monopoly GO Releasing New Sticker Pack">
+                    Monopoly GO Releasing New Sticker Pack
+                  </a>
+                </h5>
+                <div class="w-display-card-extra">
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="display-card scroll-offset article small   active-content                      " data-include-community-rating="false">
+              <a class="dc-img-link" href="/pokemon-go-bonus-tcg-catch/">
+                <div class="w-img ">
+                  <div class="bc-img responsive-img img-displayCard">
+                    <figure>
+                      <picture>
+                        <img width="2200" height="1099" loading="lazy" decoding="async" alt="pokemon go with charizard flying by in the background" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/pokemon-go-bonuses-catch.jpg" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/pokemon-go-bonuses-catch.jpg" style="display:block;height:auto;max-width:100%;">
+                      </picture>
+                    </figure>
+                  </div>
+                </div>
+              </a>
+              <div class="w-display-card-content regular article-block">
+                <h5 class="display-card-title ">
+                  <a href="/pokemon-go-bonus-tcg-catch/" title="Pokemon GO Players Have Chance to Get Special Bonuses, But There's a Catch">
+                    Pokemon GO Players Have Chance to Get Special Bonuses, But There's a Catch
+                  </a>
+                </h5>
+                <div class="w-display-card-extra">
+                </div>
+                <div class="flex w-rating-card-info">
+                </div>
+                <div class="w-display-card-details">
+                  <div class="w-display-card-meta">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      </aside>
+
+
+
+    </article>
+
+
+
+
+  </main>
+
+
+  <footer id="website-footer" class="" aria-label="Footer">
+    <div class="wrapper w-footer">
+      <div class="footer-content">
+        <div class="footer-content-el">
+          <div class="el-header">
+            <a href="/" class="footer-img" rel="home">
+              <picture>
+                <img src="images/logo.png" alt="Game Rant logo" title="Game Rant" width="200" height="60" >
+              </picture>
+            </a>
+          </div>
+
+          <div class="footer-content-el footer-note">
+            <div class="color-white">
+              Website thông tin về game cập nhật công nghệ mới nhất trên toàn thế giới , đưa ra bài viết chất lượng uy tín
+            </div>
+          </div>
+        </div>
+
+        <div class="footer-content-el">
+        </div>
+
+        <div class="footer-content-el section-right">
+          <div class="el-header section-right">
+          </div>
+
+          <ul class="align-right">
+            <li><a class="text" href="https://www.valnetinc.com/en/advertising" target="_blank">Advertising</a></li>
+            <li><a class="text" href="https://www.valnetinc.com/en/careers" target="_blank">Careers</a></li>
+            <li><a class="text" href="https://www.valnetinc.com/en/terms-of-use" target="_blank">Terms</a></li>
+            <li><a class="text" href="https://www.valnetinc.com/en/privacy-policy" target="_blank">Privacy</a></li>
+            <li><a class="text" href="https://www.valnetinc.com/en/editorial-integrity" target="_blank">Policies</a></li>
+          </ul>
+        </div>
+        <div class="footer-content-el">
+        </div>
+      </div>
+    </div>
+
+    <div class="wrapper">
+      <div class="valnet-content">
+        <div class="text">
+          Copyright © 2024 Valnet Inc.
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+
